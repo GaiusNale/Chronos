@@ -406,3 +406,24 @@ KeyError: 'channel_id'
 [32m2024-11-04 23:19:38,546 - __main__ - INFO - Loaded cog: ping.py[0m
 [32m2024-11-04 23:19:38,548 - __main__ - INFO - Loaded cog: sayhi.py[0m
 [32m2024-11-04 23:19:38,560 - __main__ - INFO - Loaded cog: timestamp.py[0m
+[34m2024-11-05 14:26:15,447 - asyncio - DEBUG - Using selector: EpollSelector[0m
+[32m2024-11-05 14:26:15,448 - discord.client - INFO - logging in using static token[0m
+[32m2024-11-05 14:26:17,877 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 441b677b66aea670944712eb18fd70b0).[0m
+[32m2024-11-05 14:26:19,885 - __main__ - INFO - Logged in as Fanta Lite (1303063696578187285)[0m
+[32m2024-11-05 14:26:19,890 - __main__ - INFO - Loaded cog: ping.py[0m
+[32m2024-11-05 14:26:19,894 - __main__ - INFO - Loaded cog: sayhi.py[0m
+[32m2024-11-05 14:26:19,911 - __main__ - INFO - Loaded cog: timestamp.py[0m
+[32m2024-11-05 14:26:29,720 - __main__ - INFO - Commands synced globally.[0m
+[32m2024-11-05 14:26:51,894 - cogs.timestamp - INFO - Timestamp command executed for timezone: UTC[0m
+[31m2024-11-05 14:27:35,641 - cogs.timestamp - ERROR - Failed to execute timestamp command: 'builtin_function_or_method' object has no attribute 'timestamp'[0m
+[32m2024-11-05 14:28:05,855 - cogs.timestamp - INFO - Timestamp command executed for timezone: UTC[0m
+[31m2024-11-05 14:30:37,021 - discord.client - ERROR - Attempting a reconnect in 0.30s[0m
+Traceback (most recent call last):
+  File "/home/pyguy/Documents/time-stamp-bot/.venv/lib/python3.10/site-packages/discord/client.py", line 659, in connect
+    await self.ws.poll_event()
+  File "/home/pyguy/Documents/time-stamp-bot/.venv/lib/python3.10/site-packages/discord/gateway.py", line 646, in poll_event
+    raise ConnectionClosed(self.socket, shard_id=self.shard_id, code=code) from None
+discord.errors.ConnectionClosed: Shard ID None WebSocket closed with 1000
+[32m2024-11-05 14:30:41,795 - discord.gateway - INFO - Shard ID None has successfully RESUMED session 441b677b66aea670944712eb18fd70b0.[0m
+[32m2024-11-05 14:39:44,306 - discord.gateway - INFO - Shard ID None has successfully RESUMED session 441b677b66aea670944712eb18fd70b0.[0m
+[33m2024-11-05 14:47:36,279 - discord.gateway - WARNING - Can't keep up, shard ID None websocket is 21.4s behind.[0m
