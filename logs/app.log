@@ -457,3 +457,46 @@ discord.errors.ConnectionClosed: Shard ID None WebSocket closed with 1000
 [32m2024-11-05 22:22:46,901 - __main__ - INFO - Loaded cog: sayhi.py[0m
 [32m2024-11-05 22:22:46,941 - __main__ - INFO - Loaded cog: timestamp.py[0m
 [32m2024-11-05 22:23:25,197 - cogs.timestamp - INFO - Timestamp command executed for timezone: UTC at time: 22:30, format: relative[0m
+[34m2024-11-05 22:47:49,036 - asyncio - DEBUG - Using selector: EpollSelector[0m
+[32m2024-11-05 22:47:49,037 - discord.client - INFO - logging in using static token[0m
+[32m2024-11-05 22:47:51,860 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 1e62c74aaffd5b71120730db3c861903).[0m
+[32m2024-11-05 22:47:53,869 - __main__ - INFO - Logged in as Fanta Lite (1303063696578187285)[0m
+[32m2024-11-05 22:47:53,873 - __main__ - INFO - Loaded cog: ping.py[0m
+[32m2024-11-05 22:47:53,876 - __main__ - INFO - Loaded cog: sayhi.py[0m
+[32m2024-11-05 22:47:53,894 - __main__ - INFO - Loaded cog: timestamp.py[0m
+[32m2024-11-05 22:48:46,590 - cogs.timestamp - INFO - Timestamp command executed for timezone: UTC at time: 22:50, format: relative[0m
+[32m2024-11-05 22:49:11,179 - cogs.timestamp - INFO - Timestamp command executed for timezone: UTC at time: 21:50, format: relative[0m
+[32m2024-11-05 22:50:25,466 - cogs.timestamp - INFO - Timestamp command executed for timezone: UTC at time: 11:50, format: relative[0m
+[32m2024-11-05 22:52:12,172 - cogs.timestamp - INFO - Timestamp command executed for timezone: UTC at time: 12:50, format: full[0m
+[34m2024-11-05 22:55:45,467 - asyncio - DEBUG - Using selector: EpollSelector[0m
+[32m2024-11-05 22:55:45,467 - discord.client - INFO - logging in using static token[0m
+[32m2024-11-05 22:55:50,438 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: adca8278c2253ac59669587a226017ad).[0m
+[32m2024-11-05 22:55:52,445 - __main__ - INFO - Logged in as Fanta Lite (1303063696578187285)[0m
+[32m2024-11-05 22:55:52,450 - __main__ - INFO - Loaded cog: ping.py[0m
+[32m2024-11-05 22:55:52,452 - __main__ - INFO - Loaded cog: sayhi.py[0m
+[32m2024-11-05 22:55:52,470 - __main__ - INFO - Loaded cog: timestamp.py[0m
+[32m2024-11-05 22:55:54,854 - __main__ - INFO - Commands synced globally.[0m
+[32m2024-11-05 22:57:08,265 - cogs.timestamp - INFO - Timestamp command executed for timezone: UTC at time: 22:58, format: full[0m
+[32m2024-11-05 23:02:29,391 - cogs.timestamp - INFO - Timestamp command executed for timezone: UTC at time: 23:02, format: full[0m
+[34m2024-11-05 23:05:49,226 - asyncio - DEBUG - Using selector: EpollSelector[0m
+[32m2024-11-05 23:05:49,227 - discord.client - INFO - logging in using static token[0m
+[32m2024-11-05 23:05:51,785 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 9aed060d564f83caa2aa5b70152ed7eb).[0m
+[32m2024-11-05 23:05:53,795 - __main__ - INFO - Logged in as Fanta Lite (1303063696578187285)[0m
+[32m2024-11-05 23:05:53,801 - __main__ - INFO - Loaded cog: ping.py[0m
+[32m2024-11-05 23:05:53,805 - __main__ - INFO - Loaded cog: sayhi.py[0m
+[32m2024-11-05 23:05:53,824 - __main__ - INFO - Loaded cog: timestamp.py[0m
+[32m2024-11-05 23:05:58,198 - __main__ - INFO - Commands synced globally.[0m
+[32m2024-11-05 23:06:54,373 - cogs.timestamp - INFO - Timestamp command executed for timezone: UTC at time: 22:10, format: full[0m
+[32m2024-11-05 23:07:30,234 - cogs.timestamp - INFO - Timestamp command executed for timezone: UTC at time: current time, format: full[0m
+[32m2024-11-05 23:07:51,074 - cogs.timestamp - INFO - Timestamp command executed for timezone: GMT at time: current time, format: full[0m
+[32m2024-11-05 23:08:15,832 - cogs.timestamp - INFO - Timestamp command executed for timezone: GMT at time: 23:04, format: full[0m
+[34m2024-11-05 23:09:05,750 - asyncio - DEBUG - Using selector: EpollSelector[0m
+[32m2024-11-05 23:09:05,750 - discord.client - INFO - logging in using static token[0m
+[32m2024-11-05 23:09:09,414 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: d009ad2267050dcd50895e96be75fa39).[0m
+[32m2024-11-05 23:09:11,422 - __main__ - INFO - Logged in as Fanta Lite (1303063696578187285)[0m
+[32m2024-11-05 23:09:11,425 - __main__ - INFO - Loaded cog: ping.py[0m
+[32m2024-11-05 23:09:11,428 - __main__ - INFO - Loaded cog: sayhi.py[0m
+[32m2024-11-05 23:09:11,446 - __main__ - INFO - Loaded cog: timestamp.py[0m
+[32m2024-11-05 23:09:19,710 - __main__ - INFO - Commands synced globally.[0m
+[32m2024-11-05 23:09:39,061 - cogs.timestamp - INFO - Timestamp command executed for timezone: UTC at time: 22:00, format: full[0m
+[32m2024-11-05 23:12:14,781 - cogs.timestamp - INFO - Timestamp command executed for timezone: UTC at time: 23:14, format: relative[0m

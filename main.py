@@ -66,3 +66,5 @@ if __name__ == '__main__':
         bot.run(DISCORD_TOKEN)
     except Exception as e:
         logger.critical(f'Failed to start bot: {e}')
+
+# discord bot link https://discord.com/oauth2/authorize?client_id=1303063696578187285&permissions=8&integration_type=0&scope=bot

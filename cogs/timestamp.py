@@ -37,12 +37,15 @@ class TimestampCog(commands.Cog):
                 try:
                     # Parse the time argument in HH:MM format
                     hour, minute = map(int, time.split(":"))
+
+                    hour = (hour - 1) % 24
                     custom_time = datetime.datetime.combine(
                         current_date, datetime.time(hour, minute)
                     )
                     custom_time = timezone.localize(
                         custom_time
                     )  # Localize to the specified timezone
+
                 except ValueError:
                     await interaction.response.send_message(
                         "Invalid time format. Please use `HH:MM` format."
