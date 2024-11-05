@@ -37,7 +37,7 @@ async def on_ready():
     await load_cogs()
 
 # AdminSync command to sync commands globally
-@bot.command(name='adminsync', description="Sync bot commands globally")
+@bot.command(name='as', description="Sync bot commands globally")
 async def adminsync(ctx):
     if ctx.author.id != AUTHORIZED_USER_ID:
         await ctx.send("You are not authorized to use this command.")
