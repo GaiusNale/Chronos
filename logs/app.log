@@ -703,3 +703,6 @@ discord.app_commands.errors.CommandInvokeError: Command 'timestamp' raised an ex
 [32m2024-11-07 21:36:00,316 - cogs.timestamp - INFO - Timestamp command executed for timezone: UTC at time: 24:00, date: 2024-12-1, format: full[0m
 [32m2024-11-07 21:36:19,604 - cogs.timestamp - INFO - Timestamp command executed for timezone: UTC at time: 24:00, date: 2024-11-30, format: full[0m
 [32m2024-11-07 21:36:30,313 - cogs.timestamp - INFO - Timestamp command executed for timezone: UTC at time: 24:00, date: 2024-11-30, format: relative[0m
+[32m2024-11-07 21:45:56,355 - __main__ - INFO - Commands synced globally.[0m
+[32m2024-11-07 21:46:31,656 - cogs.timestamp - INFO - Timestamp command executed for timezone: UTC at time: 00:00, date: 2024-11-30, format: relative[0m
+[32m2024-11-07 21:50:42,267 - cogs.timestamp - INFO - Timestamp command executed for timezone: UTC at time: 00:00, date: 2024-11-30, format: relative[0m

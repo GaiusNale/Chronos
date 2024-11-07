@@ -84,7 +84,7 @@ class TimestampCog(commands.Cog):
             timestamp_message = formats.get(format.lower(), formats["full"])
 
             # Send the formatted timestamp
-            await interaction.response.send_message(f"{timestamp_message} in {tz} timezone")
+            await interaction.response.send_message(f"{timestamp_message}")
 
             # Log successful execution
             logger.info(f"Timestamp command executed for timezone: {tz} at time: {time if time else 'current time'}, date: {date if date else 'current date'}, format: {format}")
