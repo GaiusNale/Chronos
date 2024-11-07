@@ -500,3 +500,206 @@ discord.errors.ConnectionClosed: Shard ID None WebSocket closed with 1000
 [32m2024-11-05 23:09:19,710 - __main__ - INFO - Commands synced globally.[0m
 [32m2024-11-05 23:09:39,061 - cogs.timestamp - INFO - Timestamp command executed for timezone: UTC at time: 22:00, format: full[0m
 [32m2024-11-05 23:12:14,781 - cogs.timestamp - INFO - Timestamp command executed for timezone: UTC at time: 23:14, format: relative[0m
+[34m2024-11-07 19:48:00,019 - asyncio - DEBUG - Using selector: EpollSelector[0m
+[32m2024-11-07 19:48:00,020 - discord.client - INFO - logging in using static token[0m
+[32m2024-11-07 19:48:08,378 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: db7ad80243fc167978ac856676b93a39).[0m
+[32m2024-11-07 19:48:10,388 - __main__ - INFO - Logged in as Fanta Lite (1303063696578187285)[0m
+[32m2024-11-07 19:48:10,393 - __main__ - INFO - Loaded cog: ping.py[0m
+[32m2024-11-07 19:48:10,397 - __main__ - INFO - Loaded cog: sayhi.py[0m
+[32m2024-11-07 19:48:10,413 - __main__ - INFO - Loaded cog: timestamp.py[0m
+[32m2024-11-07 19:49:55,557 - cogs.timestamp - INFO - Timestamp command executed for timezone: UTC at time: 19:50, format: relative[0m
+[34m2024-11-07 19:53:55,234 - asyncio - DEBUG - Using selector: EpollSelector[0m
+[32m2024-11-07 19:53:55,235 - discord.client - INFO - logging in using static token[0m
+[32m2024-11-07 19:53:58,001 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: b2edd5eb905ac0b0103100d8c149a9fd).[0m
+[32m2024-11-07 19:54:00,009 - __main__ - INFO - Logged in as Fanta Lite (1303063696578187285)[0m
+[32m2024-11-07 19:54:00,012 - __main__ - INFO - Loaded cog: ping.py[0m
+[32m2024-11-07 19:54:00,013 - __main__ - INFO - Loaded cog: sayhi.py[0m
+[32m2024-11-07 19:54:00,021 - __main__ - INFO - Loaded cog: timestamp.py[0m
+[32m2024-11-07 19:54:27,853 - cogs.timestamp - INFO - Timestamp command executed for timezone: UTC at time: 22:30, format: relative[0m
+[32m2024-11-07 19:54:37,680 - cogs.timestamp - INFO - Timestamp command executed for timezone: UTC at time: 22:30, format: full[0m
+[32m2024-11-07 20:08:26,565 - discord.gateway - INFO - Shard ID None has successfully RESUMED session b2edd5eb905ac0b0103100d8c149a9fd.[0m
+[34m2024-11-07 20:22:28,611 - asyncio - DEBUG - Using selector: EpollSelector[0m
+[32m2024-11-07 20:22:28,611 - discord.client - INFO - logging in using static token[0m
+[32m2024-11-07 20:22:32,709 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 4c5172b4896e0be98285d22de5e13d7e).[0m
+[32m2024-11-07 20:22:34,750 - __main__ - INFO - Logged in as Fanta Lite (1303063696578187285)[0m
+[32m2024-11-07 20:22:34,759 - __main__ - INFO - Loaded cog: ping.py[0m
+[32m2024-11-07 20:22:34,768 - __main__ - INFO - Loaded cog: sayhi.py[0m
+[32m2024-11-07 20:22:34,813 - __main__ - INFO - Loaded cog: timestamp.py[0m
+[32m2024-11-07 20:22:49,208 - __main__ - INFO - Commands synced globally.[0m
+[31m2024-11-07 20:25:05,085 - cogs.timestamp - ERROR - Failed to execute timestamp command: local variable 'current_date' referenced before assignment[0m
+[32m2024-11-07 20:28:54,867 - cogs.timestamp - INFO - Timestamp command executed for timezone: UTC at time: 00:00, format: full[0m
+[31m2024-11-07 20:29:43,400 - cogs.timestamp - ERROR - Failed to execute timestamp command: local variable 'current_date' referenced before assignment[0m
+[34m2024-11-07 20:34:13,245 - asyncio - DEBUG - Using selector: EpollSelector[0m
+[32m2024-11-07 20:34:13,246 - discord.client - INFO - logging in using static token[0m
+[32m2024-11-07 20:34:15,583 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 7d7c2b037f834397e197a77a0b90c35c).[0m
+[32m2024-11-07 20:34:17,594 - __main__ - INFO - Logged in as Fanta Lite (1303063696578187285)[0m
+[32m2024-11-07 20:34:17,599 - __main__ - INFO - Loaded cog: ping.py[0m
+[32m2024-11-07 20:34:17,603 - __main__ - INFO - Loaded cog: sayhi.py[0m
+[32m2024-11-07 20:34:17,639 - __main__ - INFO - Loaded cog: timestamp.py[0m
+[32m2024-11-07 20:34:25,969 - __main__ - INFO - Commands synced globally.[0m
+[32m2024-11-07 20:35:44,204 - cogs.timestamp - INFO - Timestamp command executed for timezone: UTC at time: 00:00, date: 2024-12-01, format: full[0m
+[32m2024-11-07 20:36:11,752 - cogs.timestamp - INFO - Timestamp command executed for timezone: UTC at time: 00:00, date: 2024-11-01, format: full[0m
+[34m2024-11-07 20:37:53,093 - asyncio - DEBUG - Using selector: EpollSelector[0m
+[32m2024-11-07 20:37:53,094 - discord.client - INFO - logging in using static token[0m
+[32m2024-11-07 20:37:55,671 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: f5e0b36eb189e9c9170d61ae627f6f31).[0m
+[32m2024-11-07 20:37:57,678 - __main__ - INFO - Logged in as Fanta Lite (1303063696578187285)[0m
+[32m2024-11-07 20:37:57,682 - __main__ - INFO - Loaded cog: ping.py[0m
+[32m2024-11-07 20:37:57,685 - __main__ - INFO - Loaded cog: sayhi.py[0m
+[32m2024-11-07 20:37:57,706 - __main__ - INFO - Loaded cog: timestamp.py[0m
+[32m2024-11-07 20:38:17,876 - __main__ - INFO - Commands synced globally.[0m
+[32m2024-11-07 20:39:14,470 - cogs.timestamp - INFO - Timestamp command executed for timezone: UTC at time: 00:00, date: 2024-12-01, format: full[0m
+[32m2024-11-07 20:39:36,198 - cogs.timestamp - INFO - Timestamp command executed for timezone: UTC at time: 00:00, date: 2024-12-02, format: full[0m
+[32m2024-11-07 20:40:09,770 - cogs.timestamp - INFO - Timestamp command executed for timezone: UTC at time: 00:00, date: 2024-12-00, format: full[0m
+[32m2024-11-07 20:40:24,236 - cogs.timestamp - INFO - Timestamp command executed for timezone: UTC at time: 00:00, date: 2024-12-05, format: full[0m
+[34m2024-11-07 21:02:27,692 - asyncio - DEBUG - Using selector: EpollSelector[0m
+[32m2024-11-07 21:02:27,693 - discord.client - INFO - logging in using static token[0m
+[32m2024-11-07 21:02:29,942 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: bb0428bdae8740fa19ecec573a199e6a).[0m
+[32m2024-11-07 21:02:31,962 - __main__ - INFO - Logged in as Fanta Lite (1303063696578187285)[0m
+[32m2024-11-07 21:02:31,967 - __main__ - INFO - Loaded cog: ping.py[0m
+[32m2024-11-07 21:02:31,970 - __main__ - INFO - Loaded cog: sayhi.py[0m
+[32m2024-11-07 21:02:31,988 - __main__ - INFO - Loaded cog: timestamp.py[0m
+[32m2024-11-07 21:03:16,855 - __main__ - INFO - Commands synced globally.[0m
+[32m2024-11-07 21:04:31,862 - cogs.timestamp - INFO - Timestamp command executed for timezone: UTC at time: 00:00, date: 2024-12-02, format: full[0m
+[34m2024-11-07 21:05:54,555 - asyncio - DEBUG - Using selector: EpollSelector[0m
+[32m2024-11-07 21:05:54,556 - discord.client - INFO - logging in using static token[0m
+[32m2024-11-07 21:05:58,897 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 734ae5db4105894ffaecc1d5c280f98b).[0m
+[32m2024-11-07 21:06:00,910 - __main__ - INFO - Logged in as Fanta Lite (1303063696578187285)[0m
+[32m2024-11-07 21:06:00,915 - __main__ - INFO - Loaded cog: ping.py[0m
+[32m2024-11-07 21:06:00,918 - __main__ - INFO - Loaded cog: sayhi.py[0m
+[32m2024-11-07 21:06:00,935 - __main__ - INFO - Loaded cog: timestamp.py[0m
+[32m2024-11-07 21:06:05,029 - __main__ - INFO - Commands synced globally.[0m
+[32m2024-11-07 21:06:41,336 - cogs.timestamp - INFO - Timestamp command executed for timezone: UTC at time: 00:00, date: current date, format: full[0m
+[32m2024-11-07 21:06:56,385 - cogs.timestamp - INFO - Timestamp command executed for timezone: UTC at time: 00:00, date: 2024-12-01, format: full[0m
+[32m2024-11-07 21:07:14,060 - cogs.timestamp - INFO - Timestamp command executed for timezone: UTC at time: 00:00, date: 2024-12-1, format: full[0m
+[32m2024-11-07 21:07:24,655 - cogs.timestamp - INFO - Timestamp command executed for timezone: UTC at time: 00:00, date: 2024-12-2, format: full[0m
+[32m2024-11-07 21:07:32,606 - cogs.timestamp - INFO - Timestamp command executed for timezone: UTC at time: 00:00, date: 2024-12-15, format: full[0m
+[32m2024-11-07 21:08:16,858 - cogs.timestamp - INFO - Timestamp command executed for timezone: UTC at time: 00:00, date: 2024-12-32, format: full[0m
+[32m2024-11-07 21:08:36,115 - cogs.timestamp - INFO - Timestamp command executed for timezone: UTC at time: 00:00, date: 2024-12-32, format: full[0m
+[34m2024-11-07 21:09:41,055 - asyncio - DEBUG - Using selector: EpollSelector[0m
+[32m2024-11-07 21:09:41,056 - discord.client - INFO - logging in using static token[0m
+[32m2024-11-07 21:09:43,646 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: c391d42f068c82239568f0973aacaf09).[0m
+[32m2024-11-07 21:09:45,678 - __main__ - INFO - Logged in as Fanta Lite (1303063696578187285)[0m
+[32m2024-11-07 21:09:45,683 - __main__ - INFO - Loaded cog: ping.py[0m
+[32m2024-11-07 21:09:45,687 - __main__ - INFO - Loaded cog: sayhi.py[0m
+[32m2024-11-07 21:09:45,709 - __main__ - INFO - Loaded cog: timestamp.py[0m
+[32m2024-11-07 21:09:50,109 - __main__ - INFO - Commands synced globally.[0m
+[32m2024-11-07 21:12:16,631 - cogs.timestamp - INFO - Timestamp command executed for timezone: UTC at time: 00:00, date: 2024-12-2, format: full[0m
+[32m2024-11-07 21:12:38,474 - cogs.timestamp - INFO - Timestamp command executed for timezone: UTC at time: 00:00, date: 2024-12-32, format: full[0m
+[34m2024-11-07 21:15:49,637 - asyncio - DEBUG - Using selector: EpollSelector[0m
+[32m2024-11-07 21:15:49,637 - discord.client - INFO - logging in using static token[0m
+[32m2024-11-07 21:15:55,152 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 9319564ad2a3baf241d11a429b6384f9).[0m
+[32m2024-11-07 21:15:57,160 - __main__ - INFO - Logged in as Fanta Lite (1303063696578187285)[0m
+[32m2024-11-07 21:15:57,164 - __main__ - INFO - Loaded cog: ping.py[0m
+[32m2024-11-07 21:15:57,167 - __main__ - INFO - Loaded cog: sayhi.py[0m
+[32m2024-11-07 21:15:57,177 - __main__ - INFO - Loaded cog: timestamp.py[0m
+[32m2024-11-07 21:16:03,795 - __main__ - INFO - Commands synced globally.[0m
+[31m2024-11-07 21:16:52,534 - discord.app_commands.tree - ERROR - Ignoring exception in command 'timestamp'[0m
+Traceback (most recent call last):
+  File "/home/pyguy/Documents/time-stamp-bot/cogs/timestamp.py", line 43, in timestamp
+    custom_date = datetime.date(year, month, day+31)  # For some reason this lets the program function please don't ask
+ValueError: day is out of range for month
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/pyguy/Documents/time-stamp-bot/cogs/timestamp.py", line 48, in timestamp
+    await interaction.response.send_message("Invalid date format. Please use `YYYY-MM-DD` format.")
+  File "/home/pyguy/Documents/NorahBot-main/.venv/lib/python3.10/site-packages/discord/interactions.py", line 778, in send_message
+    await adapter.create_interaction_response(
+  File "/home/pyguy/Documents/NorahBot-main/.venv/lib/python3.10/site-packages/discord/webhook/async_.py", line 219, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/pyguy/Documents/NorahBot-main/.venv/lib/python3.10/site-packages/discord/app_commands/commands.py", line 841, in _do_call
+    return await self._callback(self.binding, interaction, **params)  # type: ignore
+  File "/home/pyguy/Documents/time-stamp-bot/cogs/timestamp.py", line 96, in timestamp
+    await interaction.response.send_message("An error occurred while processing the timestamp command.")
+  File "/home/pyguy/Documents/NorahBot-main/.venv/lib/python3.10/site-packages/discord/interactions.py", line 778, in send_message
+    await adapter.create_interaction_response(
+  File "/home/pyguy/Documents/NorahBot-main/.venv/lib/python3.10/site-packages/discord/webhook/async_.py", line 219, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/pyguy/Documents/NorahBot-main/.venv/lib/python3.10/site-packages/discord/app_commands/tree.py", line 1248, in _call
+    await command._invoke_with_namespace(interaction, namespace)
+  File "/home/pyguy/Documents/NorahBot-main/.venv/lib/python3.10/site-packages/discord/app_commands/commands.py", line 867, in _invoke_with_namespace
+    return await self._do_call(interaction, transformed_values)
+  File "/home/pyguy/Documents/NorahBot-main/.venv/lib/python3.10/site-packages/discord/app_commands/commands.py", line 860, in _do_call
+    raise CommandInvokeError(self, e) from e
+discord.app_commands.errors.CommandInvokeError: Command 'timestamp' raised an exception: NotFound: 404 Not Found (error code: 10062): Unknown interaction
+[34m2024-11-07 21:17:05,016 - asyncio - DEBUG - Using selector: EpollSelector[0m
+[32m2024-11-07 21:17:05,017 - discord.client - INFO - logging in using static token[0m
+[32m2024-11-07 21:17:10,420 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: ad6a92f357a2720ddaf3bb646d8a4d19).[0m
+[32m2024-11-07 21:17:12,426 - __main__ - INFO - Logged in as Fanta Lite (1303063696578187285)[0m
+[32m2024-11-07 21:17:12,431 - __main__ - INFO - Loaded cog: ping.py[0m
+[32m2024-11-07 21:17:12,437 - __main__ - INFO - Loaded cog: sayhi.py[0m
+[32m2024-11-07 21:17:12,457 - __main__ - INFO - Loaded cog: timestamp.py[0m
+[32m2024-11-07 21:17:28,087 - __main__ - INFO - Commands synced globally.[0m
+[32m2024-11-07 21:19:19,920 - cogs.timestamp - INFO - Timestamp command executed for timezone: UTC at time: 00:00, date: 2024-12-32, format: full[0m
+[32m2024-11-07 21:19:28,338 - cogs.timestamp - INFO - Timestamp command executed for timezone: UTC at time: 00:00, date: 2024-12-31, format: full[0m
+[32m2024-11-07 21:20:59,035 - __main__ - INFO - Commands synced globally.[0m
+[32m2024-11-07 21:21:29,660 - cogs.timestamp - INFO - Timestamp command executed for timezone: UTC at time: 00:00, date: 2024-12-02, format: full[0m
+[32m2024-11-07 21:21:34,612 - cogs.timestamp - INFO - Timestamp command executed for timezone: UTC at time: 00:00, date: 2024-12-03, format: full[0m
+[32m2024-11-07 21:21:54,834 - cogs.timestamp - INFO - Timestamp command executed for timezone: UTC at time: 00:00, date: 2024-12-32, format: full[0m
+[32m2024-11-07 21:22:24,261 - __main__ - INFO - Commands synced globally.[0m
+[32m2024-11-07 21:23:25,268 - cogs.timestamp - INFO - Timestamp command executed for timezone: UTC at time: 00:00, date: 2024-12-30, format: full[0m
+[32m2024-11-07 21:27:03,114 - cogs.timestamp - INFO - Timestamp command executed for timezone: UTC at time: 00:00, date: 2024-12-31, format: full[0m
+[32m2024-11-07 21:27:12,294 - cogs.timestamp - INFO - Timestamp command executed for timezone: UTC at time: 00:00, date: 2024-12-32, format: full[0m
+[32m2024-11-07 21:28:01,455 - __main__ - INFO - Commands synced globally.[0m
+[34m2024-11-07 21:28:15,007 - asyncio - DEBUG - Using selector: EpollSelector[0m
+[32m2024-11-07 21:28:15,008 - discord.client - INFO - logging in using static token[0m
+[32m2024-11-07 21:28:18,281 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 5e650c21caa836523a0123321d1762e7).[0m
+[32m2024-11-07 21:28:20,286 - __main__ - INFO - Logged in as Fanta Lite (1303063696578187285)[0m
+[32m2024-11-07 21:28:20,289 - __main__ - INFO - Loaded cog: ping.py[0m
+[32m2024-11-07 21:28:20,292 - __main__ - INFO - Loaded cog: sayhi.py[0m
+[32m2024-11-07 21:28:20,300 - __main__ - INFO - Loaded cog: timestamp.py[0m
+[32m2024-11-07 21:28:58,534 - cogs.timestamp - INFO - Timestamp command executed for timezone: UTC at time: current time, date: 2024-12-01, format: full[0m
+[32m2024-11-07 21:29:01,421 - __main__ - INFO - Commands synced globally.[0m
+[34m2024-11-07 21:29:45,911 - asyncio - DEBUG - Using selector: EpollSelector[0m
+[32m2024-11-07 21:29:45,912 - discord.client - INFO - logging in using static token[0m
+[32m2024-11-07 21:29:48,706 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 2e0a97ab974fff8cc0d3c963007a2dff).[0m
+[32m2024-11-07 21:29:50,713 - __main__ - INFO - Logged in as Fanta Lite (1303063696578187285)[0m
+[32m2024-11-07 21:29:50,717 - __main__ - INFO - Loaded cog: ping.py[0m
+[32m2024-11-07 21:29:50,720 - __main__ - INFO - Loaded cog: sayhi.py[0m
+[32m2024-11-07 21:29:50,738 - __main__ - INFO - Loaded cog: timestamp.py[0m
+[32m2024-11-07 21:29:51,401 - __main__ - INFO - Commands synced globally.[0m
+[32m2024-11-07 21:30:24,447 - cogs.timestamp - INFO - Timestamp command executed for timezone: UTC at time: current time, date: 2024-12-01, format: full[0m
+[32m2024-11-07 21:30:34,168 - cogs.timestamp - INFO - Timestamp command executed for timezone: UTC at time: current time, date: 2024-12-02, format: full[0m
+[32m2024-11-07 21:30:38,913 - cogs.timestamp - INFO - Timestamp command executed for timezone: UTC at time: current time, date: 2024-12-02, format: full[0m
+[32m2024-11-07 21:30:42,928 - cogs.timestamp - INFO - Timestamp command executed for timezone: UTC at time: current time, date: 2024-12-03, format: full[0m
+[34m2024-11-07 21:31:33,972 - asyncio - DEBUG - Using selector: EpollSelector[0m
+[32m2024-11-07 21:31:33,972 - discord.client - INFO - logging in using static token[0m
+[32m2024-11-07 21:31:37,285 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: eae524e69500b7128fadad886868f6f9).[0m
+[32m2024-11-07 21:31:39,290 - __main__ - INFO - Logged in as Fanta Lite (1303063696578187285)[0m
+[32m2024-11-07 21:31:39,291 - __main__ - INFO - Loaded cog: ping.py[0m
+[32m2024-11-07 21:31:39,292 - __main__ - INFO - Loaded cog: sayhi.py[0m
+[32m2024-11-07 21:31:39,298 - __main__ - INFO - Loaded cog: timestamp.py[0m
+[32m2024-11-07 21:31:43,171 - __main__ - INFO - Commands synced globally.[0m
+[32m2024-11-07 21:31:56,489 - cogs.timestamp - INFO - Timestamp command executed for timezone: UTC at time: current time, date: 2024-12-01, format: full[0m
+[32m2024-11-07 21:32:01,314 - cogs.timestamp - INFO - Timestamp command executed for timezone: UTC at time: current time, date: 2024-12-02, format: full[0m
+[32m2024-11-07 21:32:05,824 - cogs.timestamp - INFO - Timestamp command executed for timezone: UTC at time: current time, date: 2024-12-03, format: full[0m
+[34m2024-11-07 21:32:46,376 - asyncio - DEBUG - Using selector: EpollSelector[0m
+[32m2024-11-07 21:32:46,377 - discord.client - INFO - logging in using static token[0m
+[32m2024-11-07 21:32:49,365 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 536eed841d547cceb2842dc0f706f112).[0m
+[32m2024-11-07 21:32:51,369 - __main__ - INFO - Logged in as Fanta Lite (1303063696578187285)[0m
+[32m2024-11-07 21:32:51,374 - __main__ - INFO - Loaded cog: ping.py[0m
+[32m2024-11-07 21:32:51,376 - __main__ - INFO - Loaded cog: sayhi.py[0m
+[32m2024-11-07 21:32:51,392 - __main__ - INFO - Loaded cog: timestamp.py[0m
+[32m2024-11-07 21:33:42,440 - __main__ - INFO - Commands synced globally.[0m
+[32m2024-11-07 21:33:59,796 - cogs.timestamp - INFO - Timestamp command executed for timezone: UTC at time: current time, date: 2024-12-3, format: full[0m
+[32m2024-11-07 21:34:12,372 - cogs.timestamp - INFO - Timestamp command executed for timezone: UTC at time: current time, date: 2024-12-1, format: full[0m
+[32m2024-11-07 21:34:15,736 - cogs.timestamp - INFO - Timestamp command executed for timezone: UTC at time: current time, date: 2024-12-1, format: full[0m
+[32m2024-11-07 21:34:22,102 - cogs.timestamp - INFO - Timestamp command executed for timezone: UTC at time: current time, date: 2024-12-30, format: full[0m
+[32m2024-11-07 21:34:39,426 - cogs.timestamp - INFO - Timestamp command executed for timezone: UTC at time: 00:00, date: 2024-12-30, format: full[0m
+[32m2024-11-07 21:34:54,789 - cogs.timestamp - INFO - Timestamp command executed for timezone: UTC at time: 00:00, date: 2024-12-1, format: full[0m
+[32m2024-11-07 21:35:13,465 - cogs.timestamp - INFO - Timestamp command executed for timezone: UTC at time: 00:01, date: 2024-12-1, format: full[0m
+[32m2024-11-07 21:35:42,994 - cogs.timestamp - INFO - Timestamp command executed for timezone: UTC at time: 23:59, date: 2024-12-1, format: full[0m
+[32m2024-11-07 21:36:00,316 - cogs.timestamp - INFO - Timestamp command executed for timezone: UTC at time: 24:00, date: 2024-12-1, format: full[0m
+[32m2024-11-07 21:36:19,604 - cogs.timestamp - INFO - Timestamp command executed for timezone: UTC at time: 24:00, date: 2024-11-30, format: full[0m
+[32m2024-11-07 21:36:30,313 - cogs.timestamp - INFO - Timestamp command executed for timezone: UTC at time: 24:00, date: 2024-11-30, format: relative[0m
