@@ -60,7 +60,7 @@ async def on_command_error(ctx, error):
     else:
         logger.error(f"An error occurred: {error}")
 
-# Runs NorahBot
+# Runs the bot 
 if __name__ == '__main__':
     try:
         bot.run(DISCORD_TOKEN)

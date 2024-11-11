@@ -706,3 +706,26 @@ discord.app_commands.errors.CommandInvokeError: Command 'timestamp' raised an ex
 [32m2024-11-07 21:45:56,355 - __main__ - INFO - Commands synced globally.[0m
 [32m2024-11-07 21:46:31,656 - cogs.timestamp - INFO - Timestamp command executed for timezone: UTC at time: 00:00, date: 2024-11-30, format: relative[0m
 [32m2024-11-07 21:50:42,267 - cogs.timestamp - INFO - Timestamp command executed for timezone: UTC at time: 00:00, date: 2024-11-30, format: relative[0m
+[34m2024-11-08 23:42:23,608 - asyncio - DEBUG - Using selector: EpollSelector[0m
+[32m2024-11-08 23:42:23,609 - discord.client - INFO - logging in using static token[0m
+[32m2024-11-08 23:42:27,328 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: e894fd512ea4eb5211bc1b18435da636).[0m
+[32m2024-11-08 23:42:29,366 - __main__ - INFO - Logged in as Fanta Lite (1303063696578187285)[0m
+[32m2024-11-08 23:42:29,371 - __main__ - INFO - Loaded cog: ping.py[0m
+[32m2024-11-08 23:42:29,374 - __main__ - INFO - Loaded cog: sayhi.py[0m
+[32m2024-11-08 23:42:29,377 - __main__ - INFO - Loaded cog: timestamp.py[0m
+[32m2024-11-08 23:42:39,598 - __main__ - INFO - Commands synced globally.[0m
+[32m2024-11-08 23:43:16,534 - cogs.timestamp - INFO - Timestamp command executed at time: 00:00, date: 2024-12-1, format: full[0m
+[34m2024-11-08 23:57:26,123 - asyncio - DEBUG - Using selector: EpollSelector[0m
+[32m2024-11-08 23:57:26,124 - discord.client - INFO - logging in using static token[0m
+[32m2024-11-08 23:57:29,458 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: a6d0b190771a6a9f37236fd6c93a1abc).[0m
+[32m2024-11-08 23:57:31,472 - __main__ - INFO - Logged in as Fanta Lite (1303063696578187285)[0m
+[32m2024-11-08 23:57:31,478 - __main__ - INFO - Loaded cog: ping.py[0m
+[32m2024-11-08 23:57:31,482 - __main__ - INFO - Loaded cog: sayhi.py[0m
+[32m2024-11-08 23:57:31,489 - __main__ - INFO - Loaded cog: timestamp.py[0m
+[32m2024-11-08 23:57:48,823 - __main__ - INFO - Commands synced globally.[0m
+[32m2024-11-08 23:57:58,905 - cogs.timestamp - INFO - Timestamp command executed at time: 00:00, date: current date, format: full[0m
+[32m2024-11-08 23:58:54,473 - cogs.timestamp - INFO - Timestamp command executed at time: 00:00, date: 2024-12-01, format: full[0m
+[32m2024-11-08 23:59:04,973 - cogs.timestamp - INFO - Timestamp command executed at time: 00:00, date: 2024-12-01, format: short[0m
+[32m2024-11-09 00:14:51,592 - cogs.timestamp - INFO - Timestamp command executed at time: 00:30, date: 2024-11-08, format: relative[0m
+[32m2024-11-09 00:15:48,731 - cogs.timestamp - INFO - Timestamp command executed at time: 0:30, date: 2024-11-09, format: relative[0m
+[32m2024-11-09 00:34:24,573 - discord.gateway - INFO - Shard ID None has successfully RESUMED session a6d0b190771a6a9f37236fd6c93a1abc.[0m
