@@ -75,4 +75,3 @@ MIT License
 
 ---
 
-This README provides a simple guide to setting up and using your bot, along with some usage examples and available format options. Let me know if you'd like to add more details!
