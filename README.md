@@ -1,4 +1,4 @@
-# Timestamp Bot
+# Chronos
 
 A Discord bot that generates customizable, timezone-aware timestamps that automatically display in each user’s local time. Users can specify a timezone, time, and format for the timestamp.
 
